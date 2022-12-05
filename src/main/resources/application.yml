@@ -1,0 +1,5 @@
+spring.batch.job.enabled: false
+bucket:
+  name: "klaud-wordcounter2-bucket"
+  inputPrefix: "input/"
+  outputPrefix: "output/"
